@@ -1,5 +1,16 @@
 # IECO: Improved Educational Competition Optimizer
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/junbolian/IECO)
+![GitHub repo size](https://img.shields.io/github/repo-size/junbolian/IECO)
+![GitHub language count](https://img.shields.io/github/languages/count/junbolian/IECO)
+![GitHub last commit](https://img.shields.io/github/last-commit/junbolian/IECO)
+![GitHub issues](https://img.shields.io/github/issues/junbolian/IECO)
+![GitHub forks](https://img.shields.io/github/forks/junbolian/IECO)
+![GitHub stars](https://img.shields.io/github/stars/junbolian/IECO)
+![GitHub watchers](https://img.shields.io/github/watchers/junbolian/IECO)
+![GitHub contributors](https://img.shields.io/github/contributors/junbolian/IECO)
+
+
 This repository provides the source code for the **Improved Educational Competition Optimizer (IECO)**, a novel optimization algorithm designed for advanced engineering optimization tasks.
 
 ## Overview
