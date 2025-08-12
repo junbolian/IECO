@@ -39,14 +39,8 @@ Detailed documentation for running and modifying the code is provided within the
 For academic use, please cite our forthcoming paper:
 
 **IECO: An Improved Educational Competition Optimizer for State-of-the-Art Engineering Optimization**  
-Authors: Xiaojie Tang#, Junbo Lian#, Ling Ma, Xincan Wu, Rui Zhong, Yujun Zhang, Huiling Chen  
-- *School of Mechanical Engineering, Sichuan University Jinjiang College, Meishan 620680, PR China*  
-- *School of Mathematics and Computer Sciences, Zhejiang A & F University, Hangzhou 311300, PR China*  
-- *Graduate School of Information Science and Technology, Hokkaido University, Sapporo, Japan*  
-- *School of New Energy, Jingchu University of Technology, Jingmen, 448000, PR China*  
-- *School of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou 325035, PR China*  
+**Authors**: Xiaojie Tang#, Junbo Lian#, Ling Ma, Xincan Wu, Rui Zhong, Yujun Zhang, Huiling Chen  (#These authors contributed equally to this work)
 
-#These authors contributed equally to this work.  
 **Corresponding authors**: Junbo Lian (junbolian@qq.com), Huiling Chen (chenhuiling.jlu@gmail.com)
 
 **Journal**: Jounal of Big Data
