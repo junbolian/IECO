@@ -1,4 +1,4 @@
-# IECO: Improved Educational Competition Optimizer
+ # IECO: Improved Educational Competition Optimizer
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/junbolian/IECO)
 ![GitHub repo size](https://img.shields.io/github/repo-size/junbolian/IECO)
@@ -48,5 +48,9 @@ Authors: Xiaojie Tang#, Junbo Lian#, Ling Ma, Xincan Wu, Rui Zhong, Yujun Zhang,
 
 #These authors contributed equally to this work.  
 **Corresponding authors**: Junbo Lian (junbolian@qq.com), Huiling Chen (chenhuiling.jlu@gmail.com)
+
+**Journal**: Jounal of Big Data
+
+**DOI**: 10.1126/s40537-025-01260-0
 
 Stay tuned for more updates and the publication of the full paper for further insights into the theoretical background and experimental results.
